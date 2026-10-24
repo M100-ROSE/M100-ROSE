@@ -1,30 +1,45 @@
 ﻿<div align="center">
 
-<img src="https://images.squarespace-cdn.com/content/v1/5a95f529af20964fa337f9d3/1519959732632-YNCRWSHEZKGQE8R4LORR/bojack.gif" alt="BoJack Horseman pixel art" width="320" />
+<br>
 
-# 👋 Olá, eu sou o Kaike Raphael Machado Guerlinguer
+<img src="https://media.tenor.com/o1bn4A8hr-0AAAAC/pixel-art-background.gif" alt="Cenário de jogo em pixel art" width="560" />
 
-**🎓 15 anos · programando desde os 9 anos**
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&pause=900&color=00E1FF&center=true&vCenter=true&width=780&height=40&lines=PLAYER+1%3A+KAIKE+RAPHAEL+MACHADO+GUERLINGUER" alt="tens" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=700&color=FFD400&center=true&vCenter=true&width=780&height=34&lines=INSERT+COIN+TO+CONTINUE..." alt="tens" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=700&color=FF00E0&center=true&vCenter=true&width=780&height=34&lines=%3E_LOADING_PROGRAMMING_SKILLS_%3E" alt="tens" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&pause=700&color=00FF85&center=true&vCenter=true&width=780&height=34&lines=15+LEVELS+OLD+*+CODING+QUEST+SINCE+9" alt="tens" />
+
+<br>
+
+<img src="https://media.tenor.com/geDuLrWdi0gAAAAM/gold-coin.gif" alt="Moedas de ouro" width="100" />
+<img src="https://media.tenor.com/bf_aJzOSdswAAAAM/pixel-heart.gif" alt="Coração de HP" width="110" />
+<img src="https://media.tenor.com/4BNeCOtaEYwAAAAC/pixel-art-game-boy.gif" alt="Game Boy pixel art" width="100" />
+<img src="https://media.tenor.com/LXHEqPgJxegAAAAM/tv-pixelart.gif" alt="TV retrô" width="100" />
+
+<br>
 
 </div>
 
----
+<img src="https://media.tenor.com/FIEQyjiLuMYAAAAC/rainbow-loading-bar.gif" alt="divisor" width="100%" />
 
-## 🧠 Sobre mim
+## 🕹️ Score screen
 
-- 🔭 Atualmente trabalhando com **sensores, ESP32 e Arduino**
-- 🌱 Estudando programação **todo dia** desde os 9 anos
-- 💬 Pode perguntar sobre: **hardware, visão computacional (MediaPipe), back-end e bancos de dados**
-- ⚡ Curiosidade: quem mexe com cara solitária é a máquina, não eu 😄
-- 🤝 Aberto a colaborações e ideias novas
+| HUD | Dados do jogador |
+| --- | --- |
+| 🎮 **PLAYER** | Kaike Raphael Machado Guerlinguer |
+| ⭐ **LEVEL** | 15 (idade) |
+| ⌛ **XP TOTAL** | 6 anos jogando... digo, programando (foi desde os 9) |
+| 🧬 **CLASSE** | Full-stack dev + hardware maker |
+| 🎯 **MISSÃO ATUAL** | Projetos com ESP32, sensores e visão computacional |
+| 🏆 **STATUS** | Online · pronto pra novas side quests 🤝 |
 
 <div align="center">
-<img src="https://media.giphy.com/media/ZRUkEDfHIzbL6joTl7/giphy.gif" alt="Rick and Morty atravessando o portal" width="320" />
+<img src="https://media.tenor.com/FIEQyjiLuMYAAAAC/rainbow-loading-bar.gif" alt="divisor" width="600" />
 </div>
 
----
-
-## 🛸 Minha stack
+## 🛸 Inventário (stack completa)
 
 ### 💬 Linguagens
 ![C](https://img.shields.io/badge/C-A8D9EA?style=for-the-badge&logo=c&logoColor=black)
@@ -55,12 +70,17 @@
 ![Sensores](https://img.shields.io/badge/Sensores-00C853?style=for-the-badge&logo=sensirion&logoColor=white)
 
 <div align="center">
-<img src="https://media.giphy.com/media/cLknL1KJZykqUfj2mD/giphy.gif" alt="Ghostface" width="300" />
+<img src="https://media.tenor.com/FIEQyjiLuMYAAAAC/rainbow-loading-bar.gif" alt="divisor" width="600" />
 </div>
 
----
+## 🎮 Side quests (o que estou fazendo)
 
-## 📫 Contato
+- 🔭 Missão em andamento: **sensores, ESP32 e Arduino** conectando o mundo físico ao código
+- 🌱 Grind diário de XP: **aprender um pouco de programação todo dia**
+- 💬 Pergunte-me sobre: **hardware, MediaPipe, back-end e bancos de dados**
+- 🤝 **Co-op enabled**: aberto a projetos em dupla ou em raid
+
+## 📫 Aperte START para chamar
 
 <div align="center">
 
@@ -71,6 +91,12 @@
 
 <div align="center">
 
-*Ou me encontre onde tudo começou... 🌀*
+<br>
+
+<img src="https://media.tenor.com/o5A7MC5_mv4AAAAC/level-up.gif" alt="LEVEL UP!" width="300" />
+
+<br>
+
+*continue jogando... o próximo save point é o próximo commit 💾*
 
 </div>
