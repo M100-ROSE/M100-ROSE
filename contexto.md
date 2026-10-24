@@ -25,7 +25,7 @@ Repositório de perfil do GitHub do usuário **M100-ROSE** (Kaike Raphael Machad
   3. Conferido que badges de tecnologias, bloco "Sobre mim" e contatos (Gmail kaikeguerlinguer@gmail.com e Instagram @rhaast_kg) foram mantidos; conteúdo do README não foi alterado.
   4. Commit README: `c5afc8d` — `Replace text references with themed GIFs (pixel art, portal, ghostface)`.
   5. Commit `contexto.md` separado: `<hash2>` — `docs: registrar terceira iteração do README no contexto`.
-  6. Push para `origin main` (`<range>`), enviado com sucesso.
+  6. Push para `origin main` (`2b39b77..a283e64`), enviado com sucesso.
 - **Arquivos alterados:** `README.md`, `contexto.md`.
 - **Pendências:**
   - [ ] Avaliar se `.opencode/` deve entrar no `.gitignore`.
