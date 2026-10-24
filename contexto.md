@@ -11,10 +11,26 @@ Repositório de perfil do GitHub do usuário **M100-ROSE** (Kaike Raphael Machad
 
 ## Estado atual
 
-- README.md com tema ARCADE/RETRO GAMING 100% pixel art (4ª iteração): hero com GIF de cenário de jogo, 4 linhas de typing SVG na fonte "Press Start 2P" (texto tipo "PLAYER 1: KAIKE...", "INSERT COIN TO CONTINUE..."), safira de accents pixel art (moedas, coração de HP, Game Boy, TV retrô), divisores de barra de loading arco-íris, seções "Score screen", "Inventário (stack completa)", "Side quests" e footer "LEVEL UP!". Sem GIFs nem referências textuais de shows/personagens (BoJack, Rick and Morty, Ghostface removidos). Badges de tecnologias e contatos (email kaikeguerlinguer@gmail.com, Instagram @rhaast_kg) mantidos.
+- README.md em versão PROFISSIONAL e clean (5ª iteração): sem nenhum GIF e sem tema arcade — removidos todos os GIFs do Tenor (cenário pixel, moedas, coração, Game Boy, TV, LEVEL UP), typing SVGs em "Press Start 2P", barra arco-íris, tabela "Score screen", "PLAYER 1", "INSERT COIN", "Side quests" e "Inventário". Estrutura: intro com nome e trajetória (15 anos, estudando desde os 9), "Sobre mim" com bullets objetivos, "Stack de tecnologia" com badges flat-square agrupadas em Linguagens / Banco de dados / Frameworks & bibliotecas (React, Next.js, MediaPipe) / Hardware & IoT (Arduino, ESP32, Sensores) e "Contato" com badges de kaikeguerlinguer@gmail.com e @rhaast_kg.
 - Branch `main` sincronizada com `origin/main`.
 
 ## Histórico
+
+### 2026-10-24 — 5ª iteração do README: versão profissional (sem GIFs, sem tema arcade)
+
+- **Solicitação original:** "O README.md foi reescrito (5ª iteração) — versão PROFISSIONAL: removidos TODOS os GIFs (Tenor: cenário pixel, moedas, coração, Game Boy, TV, LEVEL UP) e todo o tema arcade (score screen, 'PLAYER 1', 'INSERT COIN', fonte Press Start 2P, typing SVGs, barra arco-íris, 'Side quests', 'Inventário'). Estrutura nova: intro com nome e trajetória (15 anos, estudando desde os 9), 'Sobre mim' com bullets objetivos, 'Stack de tecnologia' com badges em estilo flat-square agrupadas em Linguagens / Banco de dados / Frameworks & bibliotecas (React, Next.js, MediaPipe) / Hardware & IoT (Arduino, ESP32, Sensores), e 'Contato' com badges do email kaikeguerlinguer@gmail.com e Instagram @rhaast_kg. Confirmar que só o README.md mudou, atualizar contexto.md, commitar e enviar para origin main."
+- **O que foi feito:**
+  1. Rodei `git status` e `git diff`: confirmado que apenas `README.md` foi modificado entre os arquivos rastreados (39 inserções, 85 deleções); `.opencode/` permaneceu não rastreado e fora do commit.
+  2. Conferido no diff: removidos todos os GIFs do Tenor (cenário pixel, moedas de ouro, coração de HP, Game Boy, TV retrô, barra arco-íris, LEVEL UP), os 4 typing SVGs em "Press Start 2P" ("PLAYER 1", "INSERT COIN TO CONTINUE...", "_LOADING_PROGRAMMING_SKILLS_", "15 LEVELS OLD"), a tabela "Score screen", "Side quests" e o footer arcade.
+  3. Conferida a nova estrutura: intro com nome e trajetória (15 anos, estudando desde os 9), "Sobre mim" com 5 bullets objetivos, "Stack de tecnologia" com badges flat-square agrupadas em Linguagens / Banco de dados / Frameworks & bibliotecas (React, Next.js, MediaPipe) / Hardware & IoT (Arduino, ESP32, Sensores) e "Contato" com os mesmos badges de contato.
+  4. Contatos mantidos: email kaikeguerlinguer@gmail.com e Instagram @rhaast_kg; conteúdo do README não foi alterado.
+  5. Atualizei o "Estado atual" e registrei esta entrada no histórico.
+  6. Commit README: `<hash1>` — `Simplify README to clean professional profile`.
+  7. Commit `contexto.md` separado: `<hash2>` — `docs: registrar quinta iteração do README no contexto`.
+  8. Push para `origin main` (`<faixa>`), enviado com sucesso.
+- **Arquivos alterados:** `README.md`, `contexto.md`.
+- **Pendências:**
+  - [ ] Avaliar se `.opencode/` deve entrar no `.gitignore`.
 
 ### 2026-10-24 — 4ª iteração do README: tema ARCADE/RETRO GAMING em pixel art
 
