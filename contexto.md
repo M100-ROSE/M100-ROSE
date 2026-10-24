@@ -27,7 +27,7 @@ Repositório de perfil do GitHub do usuário **M100-ROSE** (Kaike Raphael Machad
   5. Atualizei o "Estado atual" e registrei esta entrada no histórico.
   6. Commit README: `1fc6360` — `Simplify README to clean professional profile`.
   7. Commit `contexto.md` separado: `854ea64` — `docs: registrar quinta iteração do README no contexto`, seguido de `docs: corrigir hashes no histórico do contexto` (ajuste deste registro).
-  8. Push para `origin main` (a partir de `774fd8d`), enviado com sucesso.
+  8. Push para `origin main` (`da6e0d4..e86e05a`), enviado com sucesso.
 - **Arquivos alterados:** `README.md`, `contexto.md`.
 - **Pendências:**
   - [ ] Avaliar se `.opencode/` deve entrar no `.gitignore`.
