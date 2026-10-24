@@ -11,10 +11,27 @@ Repositório de perfil do GitHub do usuário **M100-ROSE** (Kaike Raphael Machad
 
 ## Estado atual
 
-- README.md sem referências textuais a BoJack Horseman (3ª iteração): título normal ("Olá, eu sou o Kaike..."), seção "Sobre mim"/"Minha stack" e contatos mantidos; apenas GIFs públicos via hotlink (pixel art no topo, Rick and Morty no portal, Ghostface) como elementos visuais.
+- README.md com tema ARCADE/RETRO GAMING 100% pixel art (4ª iteração): hero com GIF de cenário de jogo, 4 linhas de typing SVG na fonte "Press Start 2P" (texto tipo "PLAYER 1: KAIKE...", "INSERT COIN TO CONTINUE..."), safira de accents pixel art (moedas, coração de HP, Game Boy, TV retrô), divisores de barra de loading arco-íris, seções "Score screen", "Inventário (stack completa)", "Side quests" e footer "LEVEL UP!". Sem GIFs nem referências textuais de shows/personagens (BoJack, Rick and Morty, Ghostface removidos). Badges de tecnologias e contatos (email kaikeguerlinguer@gmail.com, Instagram @rhaast_kg) mantidos.
 - Branch `main` sincronizada com `origin/main`.
 
 ## Histórico
+
+### 2026-10-24 — 4ª iteração do README: tema ARCADE/RETRO GAMING em pixel art
+
+- **Solicitação original:** "O README.md foi reescrito (4ª iteração) — novo tema ARCADE/RETRO GAMING 100% pixel art, decorativo e leve: removidos os GIFs anteriores (BoJack, Rick and Morty, Ghostface) e TODA referência textual a shows/personagens; hero com GIF pixel art de cenário de jogo; 4 escritas animadas (typing SVG) com fonte 'Press Start 2P' e cores ciano/amarelo/magenta/verde ('PLAYER 1: KAIKE...', 'INSERT COIN TO CONTINUE...', etc.); safira de accents pixel art (moedas de ouro, coração de HP, Game Boy, TV retrô); divisores de barra de loading arco-íris; tabela 'Score screen'; seções 'Inventário' (badges mantidas intactas) e 'Side quests'; footer com GIF 'LEVEL UP!'. Contatos mantidos. Confirmar que só o README.md mudou, atualizar o contexto.md, commitar e enviar para origin main."
+- **O que foi feito:**
+  1. Rodei `git status` e `git diff`: confirmado que apenas `README.md` foi modificado entre os arquivos rastreados (44 inserções, 18 deleções); `.opencode/` permaneceu não rastreado e fora do commit.
+  2. Conferido no diff: GIFs de BoJack (squarespace-cdn), Rick and Morty (Giphy) e Ghostface (Giphy) removidos, junto com TODA referência textual a shows/personagens.
+  3. Conferida a nova estrutura arcade: hero com GIF pixel art de cenário de jogo (Tenor o1bn4A8hr-0AAAAC), 4 linhas typing SVG com "Press Start 2P" nas cores ciano/amarelo/magenta/verde, safira de accents (moedas de ouro, coração de HP, Game Boy, TV retrô), divisores de barra de loading arco-íris (Tenor FIEQyjiLuMYAAAAC) no meio e antes do contato, tabela "Score screen" (PLAYER/LEVEL/XP/CLASSE/MISSÃO/STATUS), "Inventário (stack completa)" com badges intactas, "Side quests" e footer com GIF "LEVEL UP!" (Tenor o5A7MC5_mv4AAAAC).
+  4. Contatos mantidos: email kaikeguerlinguer@gmail.com e Instagram @rhaast_kg; conteúdo do README não foi alterado.
+  5. Corrigido no histórico da 3ª iteração o marcador pendente `<hash2>` para o hash real do commit (`a283e64`).
+  6. Commit README: `ae9e02e` — `Rebuild README with pixel-art arcade theme`.
+  7. Commit `contexto.md` separado: `774fd8d` — `docs: registrar quarta iteração do README no contexto`.
+  8. Push para `origin main` (f9ef928..774fd8d), enviado com sucesso.
+- **Arquivos alterados:** `README.md`, `contexto.md`.
+- **Pendências:**
+  - [ ] Avaliar se `.opencode/` deve entrar no `.gitignore`.
+  - [ ] Verificar se os GIFs hotlinkados do Tenor permanecem estáveis ao longo do tempo (hotlinks podem quebrar).
 
 ### 2026-10-24 — 3ª iteração do README: remover referências textuais e usar GIFs embutidos
 
@@ -24,7 +41,7 @@ Repositório de perfil do GitHub do usuário **M100-ROSE** (Kaike Raphael Machad
   2. Conferido no diff a remoção de todas as referências textuais de BoJack (título "KAIKE HORSEMAN", sinopse em episódios, "Still serving suggestions!", "Hollywoo", "Mr. Peanutbutter", "It gets easier", "Doggy doggy what now?", "Hjkl;'", epígrafe final) e a chegada dos 3 GIFs: pixel art (squarespace-cdn.com, site do Ivan Dixon) no topo, Rick and Morty no portal (media.giphy.com, Adult Swim) como divisor e Ghostface (media.giphy.com, ScreamMovies) antes do contato.
   3. Conferido que badges de tecnologias, bloco "Sobre mim" e contatos (Gmail kaikeguerlinguer@gmail.com e Instagram @rhaast_kg) foram mantidos; conteúdo do README não foi alterado.
   4. Commit README: `c5afc8d` — `Replace text references with themed GIFs (pixel art, portal, ghostface)`.
-  5. Commit `contexto.md` separado: `<hash2>` — `docs: registrar terceira iteração do README no contexto`.
+  5. Commit `contexto.md` separado: `a283e64` — `docs: registrar terceira iteração do README no contexto`.
   6. Push para `origin main` (`2b39b77..a283e64`), enviado com sucesso.
 - **Arquivos alterados:** `README.md`, `contexto.md`.
 - **Pendências:**
