@@ -1,26 +1,30 @@
 ﻿<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Righteous&size=32&pause=1000&color=F5C518&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=90&lines=Hey!+eu+sou+o+KAIKE+RAPHAEL+MACHADO+GUERLINGUER;What+time+is+it+right+now%3F" alt="typing svg" />
+<img src="https://images.squarespace-cdn.com/content/v1/5a95f529af20964fa337f9d3/1519959732632-YNCRWSHEZKGQE8R4LORR/bojack.gif" alt="BoJack Horseman pixel art" width="320" />
 
-# 🐴 KAIKE HORSEMAN E ISTO É UM PERFIL DE GITHUB 🐴
+# 👋 Olá, eu sou o Kaike Raphael Machado Guerlinguer
 
-**15 anos · programando desde os 9 anos** · ou, como o Mr. Peanutbutter diria: *"Woof!! 🐕"*
+**🎓 15 anos · programando desde os 9 anos**
 
 </div>
 
 ---
 
-## 📺 Sinopse da temporada
+## 🧠 Sobre mim
 
-| Episódio | Sinopse |
-| --- | --- |
-| S01E01 | Aos 9 anos escreveu o primeiro "Hello, World" e de lá pra cá não parou. "É por isso que o water cooler está frio!" |
-| Temporada Atual | 15 anos, programando todo dia. Mr. Peanutbutter aprovaria: *"WOOF!"* |
-| Próxima Temporada | Renovada automaticamente — e essa temporada sim, a Netflix não cancela. |
+- 🔭 Atualmente trabalhando com **sensores, ESP32 e Arduino**
+- 🌱 Estudando programação **todo dia** desde os 9 anos
+- 💬 Pode perguntar sobre: **hardware, visão computacional (MediaPipe), back-end e bancos de dados**
+- ⚡ Curiosidade: quem mexe com cara solitária é a máquina, não eu 😄
+- 🤝 Aberto a colaborações e ideias novas
+
+<div align="center">
+<img src="https://media.giphy.com/media/ZRUkEDfHIzbL6joTl7/giphy.gif" alt="Rick and Morty atravessando o portal" width="320" />
+</div>
 
 ---
 
-## 🐾 O elenco (minhas tecnologias)
+## 🛸 Minha stack
 
 ### 💬 Linguagens
 ![C](https://img.shields.io/badge/C-A8D9EA?style=for-the-badge&logo=c&logoColor=black)
@@ -34,7 +38,7 @@
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### 🗄️ Dados
+### 🗄️ Banco de dados
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -50,32 +54,23 @@
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-FF6F00?style=for-the-badge&logo=google&logoColor=white)
 ![Sensores](https://img.shields.io/badge/Sensores-00C853?style=for-the-badge&logo=sensirion&logoColor=white)
 
----
-
-## 🍽️ Still serving suggestions!
-
-O que ando fazendo por aqui:
-
-- 🔭 Projetos com **sensores, ESP32 e Arduino** (o Mr. Peanutbutter do meu stack: sempre animado, sempre conectado)
-- 🌱 Aprendendo todo dia — *"it gets easier"*, e a parte boa: dá pra fazer isso todo dia 😄
-- 💬 Pode me perguntar sobre: **hardware, visão computacional com MediaPipe, back-end e bancos de dados**
-- 🤝 Aberto a colaborações. *"Doggy doggy what now?"* — pode falar.
+<div align="center">
+<img src="https://media.giphy.com/media/cLknL1KJZykqUfj2mD/giphy.gif" alt="Ghostface" width="300" />
+</div>
 
 ---
 
 ## 📫 Contato
 
-> *"Hjkl;'."* — o nome é difícil, mas o contato é fácil: 😄
+<div align="center">
 
 [![Gmail](https://img.shields.io/badge/kaikeguerlinguer@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaikeguerlinguer@gmail.com)
 [![Instagram @rhaast_kg](https://img.shields.io/badge/@rhaast_kg-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rhaast_kg)
 
----
+</div>
 
 <div align="center">
 
-**🐎 ESTE É O 🅷OLLYWOO, GENTE! 🐎**
-
-*"BoJack Horseman (1998)" — e a temporada de Kaike continua renovada.* 🎬
+*Ou me encontre onde tudo começou... 🌀*
 
 </div>
