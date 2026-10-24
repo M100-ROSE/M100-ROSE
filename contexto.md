@@ -25,9 +25,9 @@ Repositório de perfil do GitHub do usuário **M100-ROSE** (Kaike Raphael Machad
   3. Conferida a nova estrutura: intro com nome e trajetória (15 anos, estudando desde os 9), "Sobre mim" com 5 bullets objetivos, "Stack de tecnologia" com badges flat-square agrupadas em Linguagens / Banco de dados / Frameworks & bibliotecas (React, Next.js, MediaPipe) / Hardware & IoT (Arduino, ESP32, Sensores) e "Contato" com os mesmos badges de contato.
   4. Contatos mantidos: email kaikeguerlinguer@gmail.com e Instagram @rhaast_kg; conteúdo do README não foi alterado.
   5. Atualizei o "Estado atual" e registrei esta entrada no histórico.
-  6. Commit README: `<hash1>` — `Simplify README to clean professional profile`.
-  7. Commit `contexto.md` separado: `<hash2>` — `docs: registrar quinta iteração do README no contexto`.
-  8. Push para `origin main` (`<faixa>`), enviado com sucesso.
+  6. Commit README: `1fc6360` — `Simplify README to clean professional profile`.
+  7. Commit `contexto.md` separado: `854ea64` — `docs: registrar quinta iteração do README no contexto`, seguido de `docs: corrigir hashes no histórico do contexto` (ajuste deste registro).
+  8. Push para `origin main` (a partir de `774fd8d`), enviado com sucesso.
 - **Arquivos alterados:** `README.md`, `contexto.md`.
 - **Pendências:**
   - [ ] Avaliar se `.opencode/` deve entrar no `.gitignore`.
